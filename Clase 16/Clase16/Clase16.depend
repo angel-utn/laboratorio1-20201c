@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1593544660 source:/home/angel/UTN/LAB1/Clase 16M/Clase16/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+
+1585255380 /home/angel/UTN/LAB1/Clase 16M/Clase16/rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
